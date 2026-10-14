@@ -1,4 +1,4 @@
-# Hi, I'm Daniel Deusing
+# Hi, I'm Daniel
 
 Software developer, founder and father of four. German, living in the Brazilian countryside.
 
