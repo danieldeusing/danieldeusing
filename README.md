@@ -6,7 +6,7 @@ Software developer, founder and father of four. German, living in the Brazilian 
 - My core stack is Java, Spring Boot, Angular, TypeScript, Python, C, AWS, Docker, Linux and Yocto.
 - I like systems close to the hardware: embedded Linux, kernel drivers, IoT and smart home protocols.
 - I use AI every day in development. Architecture and judgment stay with people: concepts over rote syntax.
-- I speak German, English and Spanish. I am still learning Portuguese.
+- I speak German, English, Spanish and French. I am still learning Portuguese.
 
 ## Projects
 
